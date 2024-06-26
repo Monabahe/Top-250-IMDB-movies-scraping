@@ -22,7 +22,7 @@ The **Top 250 Movies Web Scraping** project involves extracting information abou
   - Ratings.
   - Release years.
   - Reviews
-  - Poster link
+  - movie link
   - Additional details like directors and genres if available.
 - Collected the data into a structured format for further processing.
 
@@ -45,7 +45,7 @@ The **Top 250 Movies Web Scraping** project involves extracting information abou
 
 ## Repository Structure
 - `web scraping movies/`: Contains the web scraping script.
-- `movies data/`: Stores the extracted and cleaned csv file.
+- `imdb_moviesdata/`: Stores the extracted and cleaned csv file.
 - `README.md`: Project description and overview.
 
 
